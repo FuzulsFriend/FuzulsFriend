@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Tomer Ezri: builds AI, and teaches it" width="100%">
+  <img src="banner.png" alt="Tomer Ezri, AI builder and trainer in Tel Aviv. Lawyer turned AI builder, founder of MarkIt. I teach what I actually build." width="100%">
 </p>
 
 I'm a lawyer who became an AI builder. I solo-built [MarkIt](https://mark-it.co), a live AI capture platform, I publish open-source tools for Claude Code, and I teach teams to work with AI. I also work as a biz-dev strategist at KPMG. I teach what I actually build.
