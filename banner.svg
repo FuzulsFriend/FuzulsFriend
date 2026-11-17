@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="t d">
+  <title id="t">Tomer Ezri - builds AI and teaches it</title>
+  <desc id="d">Beige banner with a blue block holding the letters TE, the name Tomer Ezri, the line Builds AI and teaches it, and a strip of topics: Claude Code, MCP and Skills, n8n, RAG, Evals.</desc>
+  <rect width="1280" height="360" fill="#EAE4D8"/>
+  <rect x="0" y="0" width="360" height="360" fill="#0B71B2"/>
+  <text x="180" y="236" text-anchor="middle" font-family="Assistant, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="170" fill="#EAE4D8" textLength="250" lengthAdjust="spacingAndGlyphs">TE</text>
+  <rect x="60" y="270" width="240" height="8" fill="#0E0E10"/>
+  <rect x="360" y="0" width="920" height="10" fill="#0E0E10"/>
+  <text x="410" y="84" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="22" fill="#085B8F" letter-spacing="4">TEL AVIV  /  AI BUILDER AND TRAINER</text>
+  <text x="406" y="186" font-family="Assistant, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="104" fill="#0E0E10" textLength="800" lengthAdjust="spacingAndGlyphs">TOMER EZRI</text>
+  <text x="410" y="234" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="28" fill="#0E0E10">Builds AI. And teaches it.</text>
+  <!-- topic strip between hard rules -->
+  <rect x="360" y="280" width="920" height="6" fill="#0E0E10"/>
+  <rect x="360" y="286" width="920" height="64" fill="#EAE4D8"/>
+  <text x="410" y="328" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="21" fill="#0E0E10" letter-spacing="2">CLAUDE CODE  /  MCP + SKILLS  /  n8n  /  RAG  /  EVALS</text>
+  <rect x="360" y="350" width="920" height="10" fill="#0E0E10"/>
+</svg>
